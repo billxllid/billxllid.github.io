@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zangjiaao.cn/"/>
-  <updated>2018-05-09T14:40:44.641Z</updated>
+  <updated>2018-06-09T13:22:02.946Z</updated>
   <id>http://zangjiaao.cn/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hexo博客部署</title>
-    <link href="http://zangjiaao.cn/2018/05/05/Hexo%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2/"/>
-    <id>http://zangjiaao.cn/2018/05/05/Hexo博客部署/</id>
-    <published>2018-05-05T13:50:50.254Z</published>
-    <updated>2018-05-09T14:40:44.641Z</updated>
+    <title>vim使用技巧</title>
+    <link href="http://zangjiaao.cn/2018/06/09/vim%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    <id>http://zangjiaao.cn/2018/06/09/vim使用技巧/</id>
+    <published>2018-06-09T12:36:36.000Z</published>
+    <updated>2018-06-09T13:22:02.946Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;ul class=&quot;markdownIt-TOC&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#%E6%8A%80%E5%B7%A7&quot;&gt;技巧&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexoblog部署记录</title>
+    <link href="http://zangjiaao.cn/2018/06/09/hexoblog%E9%83%A8%E7%BD%B2%E8%AE%B0%E5%BD%95/"/>
+    <id>http://zangjiaao.cn/2018/06/09/hexoblog部署记录/</id>
+    <published>2018-06-09T12:33:50.000Z</published>
+    <updated>2018-06-09T12:42:05.061Z</updated>
     
     <summary type="html">
     
