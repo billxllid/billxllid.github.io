@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.zangjiaao.cn/"/>
-  <updated>2018-06-10T02:33:21.835Z</updated>
+  <updated>2018-06-10T17:36:14.406Z</updated>
   <id>https://blog.zangjiaao.cn/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Kali使用技巧</title>
+    <link href="https://blog.zangjiaao.cn/2018/06/11/Kali%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    <id>https://blog.zangjiaao.cn/2018/06/11/Kali使用技巧/</id>
+    <published>2018-06-10T17:32:17.000Z</published>
+    <updated>2018-06-10T17:36:14.406Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;kali使用技巧&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#kali使用技巧&quot;&gt;&lt;/a&gt; Kali使用技巧&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul class=&quot;markdownIt-TOC&quot;&gt;&lt;li&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="03_工具手册" scheme="https://blog.zangjiaao.cn/categories/manual/"/>
+    
+    
+      <category term="kali" scheme="https://blog.zangjiaao.cn/tags/kali/"/>
+    
+      <category term="linux" scheme="https://blog.zangjiaao.cn/tags/linux/"/>
+    
+  </entry>
   
   <entry>
     <title>Cmder美化与增强</title>
@@ -75,7 +103,7 @@
     <link href="https://blog.zangjiaao.cn/2018/06/09/Vim%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
     <id>https://blog.zangjiaao.cn/2018/06/09/Vim使用技巧/</id>
     <published>2018-06-09T12:36:36.000Z</published>
-    <updated>2018-06-10T02:33:14.651Z</updated>
+    <updated>2018-06-10T17:34:05.278Z</updated>
     
     <summary type="html">
     
@@ -93,6 +121,8 @@
     
     
       <category term="vim" scheme="https://blog.zangjiaao.cn/tags/vim/"/>
+    
+      <category term="tips" scheme="https://blog.zangjiaao.cn/tags/tips/"/>
     
   </entry>
   
