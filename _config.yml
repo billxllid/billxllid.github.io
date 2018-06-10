@@ -135,11 +135,17 @@ markdown_it_plus:
      quotes: “”‘’
      pre_class: highlight
 
-search:
-  path: search.xml
-  field: post
-  format: html
-  limit: 10000
+# search:
+#   path: search.xml
+#   field: post
+#   format: html
+#   limit: 10000
+
+algolia:
+  applicationID: '0C0PSWJ6U5'
+  apiKey: '657e9e9436cc07fca2578b797aa2b0c9'
+  indexName: 'hexo_blog'
+  chunkSize: 5000
 
 feed:
   type: atom
