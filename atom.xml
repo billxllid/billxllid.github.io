@@ -5,9 +5,9 @@
   <subtitle>滴水穿石...</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://zangjiaao.cn/"/>
-  <updated>2018-06-09T13:22:02.946Z</updated>
-  <id>http://zangjiaao.cn/</id>
+  <link href="https://blog.zangjiaao.cn/"/>
+  <updated>2018-06-10T02:33:21.835Z</updated>
+  <id>https://blog.zangjiaao.cn/</id>
   
   <author>
     <name>jiahao</name>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>vim使用技巧</title>
-    <link href="http://zangjiaao.cn/2018/06/09/vim%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
-    <id>http://zangjiaao.cn/2018/06/09/vim使用技巧/</id>
-    <published>2018-06-09T12:36:36.000Z</published>
-    <updated>2018-06-09T13:22:02.946Z</updated>
+    <title>Cmder美化与增强</title>
+    <link href="https://blog.zangjiaao.cn/2018/06/10/Cmder%E7%BE%8E%E5%8C%96%E4%B8%8E%E5%A2%9E%E5%BC%BA/"/>
+    <id>https://blog.zangjiaao.cn/2018/06/10/Cmder美化与增强/</id>
+    <published>2018-06-09T19:14:43.000Z</published>
+    <updated>2018-06-10T02:33:21.835Z</updated>
     
     <summary type="html">
     
@@ -29,24 +29,25 @@
       
         
         
-          &lt;p&gt;&lt;ul class=&quot;markdownIt-TOC&quot;&gt;
-&lt;li&gt;&lt;a href=&quot;#%E6%8A%80%E5%B7%A7&quot;&gt;技巧&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
+          &lt;h1 id=&quot;cmder-配置&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#cmder-配置&quot;&gt;&lt;/a&gt; Cmder 配置&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul class=&quot;markdownIt-TOC&quot;&gt;&lt;li&gt;&lt;a
         
       
     
     </summary>
     
+      <category term="05_日常折腾" scheme="https://blog.zangjiaao.cn/categories/daily/"/>
+    
+    
+      <category term="cmder" scheme="https://blog.zangjiaao.cn/tags/cmder/"/>
     
   </entry>
   
   <entry>
-    <title>hexoblog部署记录</title>
-    <link href="http://zangjiaao.cn/2018/06/09/hexoblog%E9%83%A8%E7%BD%B2%E8%AE%B0%E5%BD%95/"/>
-    <id>http://zangjiaao.cn/2018/06/09/hexoblog部署记录/</id>
-    <published>2018-06-09T12:33:50.000Z</published>
-    <updated>2018-06-09T12:42:05.061Z</updated>
+    <title>WebGoat项目搭建</title>
+    <link href="https://blog.zangjiaao.cn/2018/06/10/WebGoat%E9%A1%B9%E7%9B%AE%E6%90%AD%E5%BB%BA/"/>
+    <id>https://blog.zangjiaao.cn/2018/06/10/WebGoat项目搭建/</id>
+    <published>2018-06-09T16:44:40.000Z</published>
+    <updated>2018-06-10T02:33:26.494Z</updated>
     
     <summary type="html">
     
@@ -54,17 +55,67 @@
       
         
         
-          &lt;p&gt;&lt;ul class=&quot;markdownIt-TOC&quot;&gt;
-&lt;li&gt;&lt;a href=&quot;#%E5%BC%80%E5%A7%8B&quot;&gt;开始&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#%E4%BE%9D%E8%B5%96&quot;&gt;依赖&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
+          &lt;h1 id=&quot;webgoat项目搭建&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#webgoat项目搭建&quot;&gt;&lt;/a&gt; WebGoat项目搭建&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul class=&quot;markdownIt-TOC&quot;&gt;&lt;li&gt;&lt;a
         
       
     
     </summary>
     
-      <category term="02_环境搭建" scheme="http://zangjiaao.cn/categories/02-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+      <category term="02_环境搭建" scheme="https://blog.zangjiaao.cn/categories/deploy/"/>
+    
+    
+      <category term="WebGoat" scheme="https://blog.zangjiaao.cn/tags/WebGoat/"/>
+    
+      <category term="DevOps" scheme="https://blog.zangjiaao.cn/tags/DevOps/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vim使用技巧</title>
+    <link href="https://blog.zangjiaao.cn/2018/06/09/Vim%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    <id>https://blog.zangjiaao.cn/2018/06/09/Vim使用技巧/</id>
+    <published>2018-06-09T12:36:36.000Z</published>
+    <updated>2018-06-10T02:33:14.651Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;vim使用技巧&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#vim使用技巧&quot;&gt;&lt;/a&gt; vim使用技巧&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul class=&quot;markdownIt-TOC&quot;&gt;&lt;li&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="03_工具手册" scheme="https://blog.zangjiaao.cn/categories/manual/"/>
+    
+    
+      <category term="vim" scheme="https://blog.zangjiaao.cn/tags/vim/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexoblog部署记录</title>
+    <link href="https://blog.zangjiaao.cn/2018/06/09/Hexoblog%E9%83%A8%E7%BD%B2%E8%AE%B0%E5%BD%95/"/>
+    <id>https://blog.zangjiaao.cn/2018/06/09/Hexoblog部署记录/</id>
+    <published>2018-06-09T12:33:50.000Z</published>
+    <updated>2018-06-09T19:54:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;hexo博客部署&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#hexo博客部署&quot;&gt;&lt;/a&gt; Hexo博客部署&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul class=&quot;markdownIt-TOC&quot;&gt;&lt;li&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="02_环境搭建" scheme="https://blog.zangjiaao.cn/categories/deploy/"/>
     
     
   </entry>
