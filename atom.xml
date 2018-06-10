@@ -70,4 +70,54 @@
     
   </entry>
   
+  <entry>
+    <title>Vim使用技巧</title>
+    <link href="https://blog.zangjiaao.cn/2018/06/09/Vim%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    <id>https://blog.zangjiaao.cn/2018/06/09/Vim使用技巧/</id>
+    <published>2018-06-09T12:36:36.000Z</published>
+    <updated>2018-06-10T02:33:14.651Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;vim使用技巧&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#vim使用技巧&quot;&gt;&lt;/a&gt; vim使用技巧&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul class=&quot;markdownIt-TOC&quot;&gt;&lt;li&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="03_工具手册" scheme="https://blog.zangjiaao.cn/categories/manual/"/>
+    
+    
+      <category term="vim" scheme="https://blog.zangjiaao.cn/tags/vim/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexoblog部署记录</title>
+    <link href="https://blog.zangjiaao.cn/2018/06/09/Hexoblog%E9%83%A8%E7%BD%B2%E8%AE%B0%E5%BD%95/"/>
+    <id>https://blog.zangjiaao.cn/2018/06/09/Hexoblog部署记录/</id>
+    <published>2018-06-09T12:33:50.000Z</published>
+    <updated>2018-06-09T19:54:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;hexo博客部署&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#hexo博客部署&quot;&gt;&lt;/a&gt; Hexo博客部署&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul class=&quot;markdownIt-TOC&quot;&gt;&lt;li&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="02_环境搭建" scheme="https://blog.zangjiaao.cn/categories/deploy/"/>
+    
+    
+  </entry>
+  
 </feed>
