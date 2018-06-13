@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.zangjiaao.cn/"/>
-  <updated>2018-06-11T18:03:16.268Z</updated>
+  <updated>2018-06-13T19:21:39.820Z</updated>
   <id>https://blog.zangjiaao.cn/</id>
   
   <author>
@@ -17,21 +17,97 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>SQL语法速查</title>
+    <link href="https://blog.zangjiaao.cn/2018/06/14/SQL%E8%AF%AD%E6%B3%95%E9%80%9F%E6%9F%A5/"/>
+    <id>https://blog.zangjiaao.cn/2018/06/14/SQL语法速查/</id>
+    <published>2018-06-13T18:49:04.000Z</published>
+    <updated>2018-06-13T19:21:39.820Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; 在使用python控制mysql(mariadb)的时候不懂SQL真是急死人😰…学习一下SQL语法，填一下以前的坑…主要参考《MySQL必知必会》这本教材，写的不错安利一下~&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="04_学习笔记" scheme="https://blog.zangjiaao.cn/categories/note/"/>
+    
+    
+      <category term="速查" scheme="https://blog.zangjiaao.cn/tags/%E9%80%9F%E6%9F%A5/"/>
+    
+      <category term="SQL" scheme="https://blog.zangjiaao.cn/tags/SQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python笔记-常用lib</title>
+    <link href="https://blog.zangjiaao.cn/2018/06/13/Python%E7%AC%94%E8%AE%B0-%E5%B8%B8%E7%94%A8lib/"/>
+    <id>https://blog.zangjiaao.cn/2018/06/13/Python笔记-常用lib/</id>
+    <published>2018-06-13T12:38:11.000Z</published>
+    <updated>2018-06-13T18:48:29.476Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; 主要用于备忘，记录一些我常用到的一些类的Tips和特性(*基于python3)…&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="04_学习笔记" scheme="https://blog.zangjiaao.cn/categories/note/"/>
+    
+    
+      <category term="python" scheme="https://blog.zangjiaao.cn/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python笔记_基础</title>
+    <link href="https://blog.zangjiaao.cn/2018/06/13/Python%E7%AC%94%E8%AE%B0-%E5%9F%BA%E7%A1%80/"/>
+    <id>https://blog.zangjiaao.cn/2018/06/13/Python笔记-基础/</id>
+    <published>2018-06-13T12:21:38.000Z</published>
+    <updated>2018-06-13T18:43:32.451Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; python学习过程中的一些基础小技巧，日后有什么的都记录到里面…&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="04_学习笔记" scheme="https://blog.zangjiaao.cn/categories/note/"/>
+    
+    
+      <category term="python" scheme="https://blog.zangjiaao.cn/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python笔记_装饰器</title>
+    <link href="https://blog.zangjiaao.cn/2018/06/12/Python%E7%AC%94%E8%AE%B0-%E8%A3%85%E9%A5%B0%E5%99%A8/"/>
+    <id>https://blog.zangjiaao.cn/2018/06/12/Python笔记-装饰器/</id>
+    <published>2018-06-12T14:13:26.000Z</published>
+    <updated>2018-06-13T18:46:27.856Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; 装饰器作为python中的高级用法，有些地方理解起来还是有点绕。所以自己做了一下&amp;quot;反套路&amp;quot;，其实理解起来还是蛮容易的了…&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="04_学习笔记" scheme="https://blog.zangjiaao.cn/categories/note/"/>
+    
+    
+      <category term="python" scheme="https://blog.zangjiaao.cn/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Shell编程速查</title>
     <link href="https://blog.zangjiaao.cn/2018/06/12/Shell%E7%BC%96%E7%A8%8B%E9%80%9F%E6%9F%A5/"/>
     <id>https://blog.zangjiaao.cn/2018/06/12/Shell编程速查/</id>
     <published>2018-06-11T16:59:02.000Z</published>
-    <updated>2018-06-11T18:03:16.268Z</updated>
+    <updated>2018-06-13T18:39:19.885Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;shell编程速查&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#shell编程速查&quot;&gt;&lt;/a&gt; Shell编程速查&lt;/h1&gt;&lt;p&gt;[TOC]&lt;/p&gt;&lt;h2 id=&quot;环境变量&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot;
-        
-      
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; 学习老男孩shell编程的一些笔记吧，python和shell必须要会啊！加油… 😋&lt;/p&gt;
     
     </summary>
     
@@ -47,17 +123,11 @@
     <link href="https://blog.zangjiaao.cn/2018/06/11/Kali%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
     <id>https://blog.zangjiaao.cn/2018/06/11/Kali使用技巧/</id>
     <published>2018-06-10T17:32:17.000Z</published>
-    <updated>2018-06-11T18:04:17.952Z</updated>
+    <updated>2018-06-13T18:35:12.528Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;kali使用技巧&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#kali使用技巧&quot;&gt;&lt;/a&gt; Kali使用技巧&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul class=&quot;markdownIt-TOC&quot;&gt;&lt;li&gt;&lt;a
-        
-      
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; 用于记录一些日常实用kali的一些磕磕绊绊，毕竟不能在一块石头上栽好几跟头吧… 😂&lt;/p&gt;
     
     </summary>
     
@@ -75,17 +145,11 @@
     <link href="https://blog.zangjiaao.cn/2018/06/10/Cmder%E7%BE%8E%E5%8C%96%E4%B8%8E%E5%A2%9E%E5%BC%BA/"/>
     <id>https://blog.zangjiaao.cn/2018/06/10/Cmder美化与增强/</id>
     <published>2018-06-09T19:14:43.000Z</published>
-    <updated>2018-06-11T18:03:04.320Z</updated>
+    <updated>2018-06-13T18:17:45.057Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;cmder-配置&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#cmder-配置&quot;&gt;&lt;/a&gt; Cmder 配置&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul class=&quot;markdownIt-TOC&quot;&gt;&lt;li&gt;&lt;a
-        
-      
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; 主要介绍了一些cmder的美化操作，以及其中继承的git小插件…&lt;/p&gt;
     
     </summary>
     
@@ -101,17 +165,11 @@
     <link href="https://blog.zangjiaao.cn/2018/06/10/WebGoat%E9%A1%B9%E7%9B%AE%E6%90%AD%E5%BB%BA/"/>
     <id>https://blog.zangjiaao.cn/2018/06/10/WebGoat项目搭建/</id>
     <published>2018-06-09T16:44:40.000Z</published>
-    <updated>2018-06-11T18:03:28.419Z</updated>
+    <updated>2018-06-13T18:21:39.944Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;webgoat项目搭建&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#webgoat项目搭建&quot;&gt;&lt;/a&gt; WebGoat项目搭建&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul class=&quot;markdownIt-TOC&quot;&gt;&lt;li&gt;&lt;a
-        
-      
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; 记录Webgoat项目的搭建过程。包括用maven构建；用jenkins(还没有开始写…)进行自动化部署、测试；源码审计的一些记录…(TODO…)&lt;/p&gt;
     
     </summary>
     
@@ -122,6 +180,8 @@
     
       <category term="DevOps" scheme="https://blog.zangjiaao.cn/tags/DevOps/"/>
     
+      <category term="maven" scheme="https://blog.zangjiaao.cn/tags/maven/"/>
+    
   </entry>
   
   <entry>
@@ -129,17 +189,11 @@
     <link href="https://blog.zangjiaao.cn/2018/06/09/Vim%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
     <id>https://blog.zangjiaao.cn/2018/06/09/Vim使用技巧/</id>
     <published>2018-06-09T12:36:36.000Z</published>
-    <updated>2018-06-11T18:02:53.388Z</updated>
+    <updated>2018-06-13T18:54:54.450Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;vim使用技巧&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#vim使用技巧&quot;&gt;&lt;/a&gt; vim使用技巧&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul class=&quot;markdownIt-TOC&quot;&gt;&lt;li&gt;&lt;a
-        
-      
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; 为了方便查找记忆，只记录一些感觉比较实用技巧，基础操作还请自行搜索…&lt;/p&gt;
     
     </summary>
     
@@ -148,7 +202,7 @@
     
       <category term="vim" scheme="https://blog.zangjiaao.cn/tags/vim/"/>
     
-      <category term="tips" scheme="https://blog.zangjiaao.cn/tags/tips/"/>
+      <category term="速查" scheme="https://blog.zangjiaao.cn/tags/%E9%80%9F%E6%9F%A5/"/>
     
   </entry>
   
@@ -157,17 +211,11 @@
     <link href="https://blog.zangjiaao.cn/2018/06/09/Hexoblog%E9%83%A8%E7%BD%B2%E8%AE%B0%E5%BD%95/"/>
     <id>https://blog.zangjiaao.cn/2018/06/09/Hexoblog部署记录/</id>
     <published>2018-06-09T12:33:50.000Z</published>
-    <updated>2018-06-11T18:02:41.234Z</updated>
+    <updated>2018-06-13T18:36:04.769Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;hexo博客部署&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#hexo博客部署&quot;&gt;&lt;/a&gt; Hexo博客部署&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul class=&quot;markdownIt-TOC&quot;&gt;&lt;li&gt;&lt;a
-        
-      
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; 记录我是如何搭建这个&amp;quot;快速、简洁且高效的博客框架&amp;quot;的Hexo博客的…&lt;/p&gt;
     
     </summary>
     
