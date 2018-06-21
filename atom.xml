@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.zangjiaao.cn/"/>
-  <updated>2018-06-13T19:21:39.820Z</updated>
+  <updated>2018-06-21T20:48:26.709Z</updated>
   <id>https://blog.zangjiaao.cn/</id>
   
   <author>
@@ -17,11 +17,49 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Python技巧</title>
+    <link href="https://blog.zangjiaao.cn/2018/06/22/Python%E6%8A%80%E5%B7%A7/"/>
+    <id>https://blog.zangjiaao.cn/2018/06/22/Python技巧/</id>
+    <published>2018-06-21T16:09:52.000Z</published>
+    <updated>2018-06-21T20:48:26.709Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; python的一些Tips，浓缩都是精华啊…&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="04_学习笔记" scheme="https://blog.zangjiaao.cn/categories/note/"/>
+    
+    
+      <category term="速查" scheme="https://blog.zangjiaao.cn/tags/%E9%80%9F%E6%9F%A5/"/>
+    
+      <category term="python" scheme="https://blog.zangjiaao.cn/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Regular正则笔记</title>
+    <link href="https://blog.zangjiaao.cn/2018/06/21/Regular%E6%AD%A3%E5%88%99%E7%AC%94%E8%AE%B0/"/>
+    <id>https://blog.zangjiaao.cn/2018/06/21/Regular正则笔记/</id>
+    <published>2018-06-20T16:31:00.000Z</published>
+    <updated>2018-06-21T20:48:23.095Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; 在学习Python re库的时候发现正则是神器，不过比较难记，所以在这里备忘…&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>SQL语法速查</title>
     <link href="https://blog.zangjiaao.cn/2018/06/14/SQL%E8%AF%AD%E6%B3%95%E9%80%9F%E6%9F%A5/"/>
     <id>https://blog.zangjiaao.cn/2018/06/14/SQL语法速查/</id>
     <published>2018-06-13T18:49:04.000Z</published>
-    <updated>2018-06-13T19:21:39.820Z</updated>
+    <updated>2018-06-14T18:34:00.137Z</updated>
     
     <summary type="html">
     
@@ -39,55 +77,15 @@
   </entry>
   
   <entry>
-    <title>Python笔记-常用lib</title>
-    <link href="https://blog.zangjiaao.cn/2018/06/13/Python%E7%AC%94%E8%AE%B0-%E5%B8%B8%E7%94%A8lib/"/>
-    <id>https://blog.zangjiaao.cn/2018/06/13/Python笔记-常用lib/</id>
+    <title>Python模块手册</title>
+    <link href="https://blog.zangjiaao.cn/2018/06/13/Python%E6%A8%A1%E5%9D%97%E6%89%8B%E5%86%8C/"/>
+    <id>https://blog.zangjiaao.cn/2018/06/13/Python模块手册/</id>
     <published>2018-06-13T12:38:11.000Z</published>
-    <updated>2018-06-13T18:48:29.476Z</updated>
+    <updated>2018-06-21T20:48:20.934Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; 主要用于备忘，记录一些我常用到的一些类的Tips和特性(*基于python3)…&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="04_学习笔记" scheme="https://blog.zangjiaao.cn/categories/note/"/>
-    
-    
-      <category term="python" scheme="https://blog.zangjiaao.cn/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Python笔记_基础</title>
-    <link href="https://blog.zangjiaao.cn/2018/06/13/Python%E7%AC%94%E8%AE%B0-%E5%9F%BA%E7%A1%80/"/>
-    <id>https://blog.zangjiaao.cn/2018/06/13/Python笔记-基础/</id>
-    <published>2018-06-13T12:21:38.000Z</published>
-    <updated>2018-06-13T18:43:32.451Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; python学习过程中的一些基础小技巧，日后有什么的都记录到里面…&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="04_学习笔记" scheme="https://blog.zangjiaao.cn/categories/note/"/>
-    
-    
-      <category term="python" scheme="https://blog.zangjiaao.cn/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Python笔记_装饰器</title>
-    <link href="https://blog.zangjiaao.cn/2018/06/12/Python%E7%AC%94%E8%AE%B0-%E8%A3%85%E9%A5%B0%E5%99%A8/"/>
-    <id>https://blog.zangjiaao.cn/2018/06/12/Python笔记-装饰器/</id>
-    <published>2018-06-12T14:13:26.000Z</published>
-    <updated>2018-06-13T18:46:27.856Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; 装饰器作为python中的高级用法，有些地方理解起来还是有点绕。所以自己做了一下&amp;quot;反套路&amp;quot;，其实理解起来还是蛮容易的了…&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; 主要用于备忘，记录一些我常用到的一些类的Tips和特性(*基于python3)…&lt;a href=&quot;https://docs.python.org/3/library/re.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;官方的ApiDoc&lt;/a&gt;…&lt;/p&gt;
     
     </summary>
     
