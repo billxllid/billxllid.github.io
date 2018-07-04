@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.zangjiaao.cn/"/>
-  <updated>2018-07-03T18:41:09.204Z</updated>
+  <updated>2018-07-04T19:37:10.900Z</updated>
   <id>https://blog.zangjiaao.cn/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ansible笔记</title>
+    <link href="https://blog.zangjiaao.cn/2018/07/05/Ansible%E7%AC%94%E8%AE%B0/"/>
+    <id>https://blog.zangjiaao.cn/2018/07/05/Ansible笔记/</id>
+    <published>2018-07-04T16:36:14.000Z</published>
+    <updated>2018-07-04T19:37:10.900Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; ansible基于python实现，是一款强大的多主机管理工具。通过他可以实现批量的任务执行，大大简化了大量主机场景下的维护难度。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="04_学习笔记" scheme="https://blog.zangjiaao.cn/categories/note/"/>
+    
+    
+      <category term="linux" scheme="https://blog.zangjiaao.cn/tags/linux/"/>
+    
+      <category term="ansible" scheme="https://blog.zangjiaao.cn/tags/ansible/"/>
+    
+  </entry>
   
   <entry>
     <title>Python技巧</title>
