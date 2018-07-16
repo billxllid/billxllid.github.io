@@ -10,6 +10,8 @@ tags:
 
  <!-- more -->
 
+{% asset_path 20180705-ansible笔记 %}
+
 # 标题
 
 @[TOC]
