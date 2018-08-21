@@ -3,7 +3,6 @@ title: {{ title }}
 date: {{ date }}
 # 要插入updated时间, VSCode中安装`Insert Date String`
 # OS X 按 ⇧ + ⌘ + I，Windows 和 Linux 按 Ctrl + Shift + I
-updated: 
 categories: ""
 tags:
     - 
@@ -14,10 +13,19 @@ tags:
  <!-- more -->
 
 {% asset_path 20180705-ansible笔记 %}
+{% asset_image 2018-08-22-01-47-16.png 笔记 %}
 
 # 标题
 
 @[TOC]
+
+## TODO
+
+- [ ] xxx
+
+## 新内容
+
+更新于: 2018-08-22 02:41:21 (插入时间参考顶部)
 
 ## 声明
 

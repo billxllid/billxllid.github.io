@@ -135,6 +135,10 @@ markdown_it_plus:
      typographer:
      quotes: “”‘’
      pre_class: highlight
+     plugins:
+        - plugin:
+            name: markdown-it-task-checkbox
+            enable: true
 
 # search:
 #   path: search.xml
