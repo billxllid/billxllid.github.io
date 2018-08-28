@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.zangjiaao.cn/"/>
-  <updated>2018-07-16T18:27:14.051Z</updated>
+  <updated>2018-08-28T17:57:26.445Z</updated>
   <id>https://blog.zangjiaao.cn/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Git学习笔记</title>
+    <link href="https://blog.zangjiaao.cn/2018/08/28/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>https://blog.zangjiaao.cn/2018/08/28/Git学习笔记/</id>
+    <published>2018-08-27T18:33:44.000Z</published>
+    <updated>2018-08-28T17:57:26.445Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; 顾名思义, Git笔记! 推荐下官方教材&lt;a href=&quot;https://git-scm.com/book/zh/v1/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Pro Git book&lt;/a&gt;在线版(支持中文哦~).&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="04_学习笔记" scheme="https://blog.zangjiaao.cn/categories/note/"/>
+    
+    
+      <category term="git" scheme="https://blog.zangjiaao.cn/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Ansible笔记</title>
     <link href="https://blog.zangjiaao.cn/2018/07/05/Ansible%E7%AC%94%E8%AE%B0/"/>
     <id>https://blog.zangjiaao.cn/2018/07/05/Ansible笔记/</id>
     <published>2018-07-04T16:36:14.000Z</published>
-    <updated>2018-07-16T18:27:14.051Z</updated>
+    <updated>2018-08-27T18:28:12.333Z</updated>
     
     <summary type="html">
     
@@ -43,7 +63,7 @@
     <link href="https://blog.zangjiaao.cn/2018/06/22/Python%E6%8A%80%E5%B7%A7/"/>
     <id>https://blog.zangjiaao.cn/2018/06/22/Python技巧/</id>
     <published>2018-06-21T16:09:52.000Z</published>
-    <updated>2018-07-03T18:41:09.204Z</updated>
+    <updated>2018-08-27T18:28:12.322Z</updated>
     
     <summary type="html">
     
@@ -65,7 +85,7 @@
     <link href="https://blog.zangjiaao.cn/2018/06/21/Regular%E6%AD%A3%E5%88%99%E7%AC%94%E8%AE%B0/"/>
     <id>https://blog.zangjiaao.cn/2018/06/21/Regular正则笔记/</id>
     <published>2018-06-20T16:31:00.000Z</published>
-    <updated>2018-07-26T17:37:37.145Z</updated>
+    <updated>2018-08-27T18:28:12.321Z</updated>
     
     <summary type="html">
     
@@ -103,7 +123,7 @@
     <link href="https://blog.zangjiaao.cn/2018/06/13/Python%E6%A8%A1%E5%9D%97%E6%89%8B%E5%86%8C/"/>
     <id>https://blog.zangjiaao.cn/2018/06/13/Python模块手册/</id>
     <published>2018-06-13T12:38:11.000Z</published>
-    <updated>2018-08-23T15:35:10.787Z</updated>
+    <updated>2018-08-28T17:39:27.632Z</updated>
     
     <summary type="html">
     
@@ -123,7 +143,7 @@
     <link href="https://blog.zangjiaao.cn/2018/06/12/Shell%E7%BC%96%E7%A8%8B%E9%80%9F%E6%9F%A5/"/>
     <id>https://blog.zangjiaao.cn/2018/06/12/Shell编程速查/</id>
     <published>2018-06-11T16:59:02.000Z</published>
-    <updated>2018-06-13T18:39:19.885Z</updated>
+    <updated>2018-08-27T18:28:12.289Z</updated>
     
     <summary type="html">
     
@@ -143,7 +163,7 @@
     <link href="https://blog.zangjiaao.cn/2018/06/11/Kali%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
     <id>https://blog.zangjiaao.cn/2018/06/11/Kali使用技巧/</id>
     <published>2018-06-10T17:32:17.000Z</published>
-    <updated>2018-06-13T18:35:12.528Z</updated>
+    <updated>2018-08-27T18:28:12.289Z</updated>
     
     <summary type="html">
     
@@ -165,7 +185,7 @@
     <link href="https://blog.zangjiaao.cn/2018/06/10/Cmder%E7%BE%8E%E5%8C%96%E4%B8%8E%E5%A2%9E%E5%BC%BA/"/>
     <id>https://blog.zangjiaao.cn/2018/06/10/Cmder美化与增强/</id>
     <published>2018-06-09T19:14:43.000Z</published>
-    <updated>2018-06-13T18:17:45.057Z</updated>
+    <updated>2018-08-27T18:28:12.286Z</updated>
     
     <summary type="html">
     
@@ -185,7 +205,7 @@
     <link href="https://blog.zangjiaao.cn/2018/06/10/WebGoat%E9%A1%B9%E7%9B%AE%E6%90%AD%E5%BB%BA/"/>
     <id>https://blog.zangjiaao.cn/2018/06/10/WebGoat项目搭建/</id>
     <published>2018-06-09T16:44:40.000Z</published>
-    <updated>2018-06-13T18:21:39.944Z</updated>
+    <updated>2018-08-27T18:28:12.288Z</updated>
     
     <summary type="html">
     
@@ -209,7 +229,7 @@
     <link href="https://blog.zangjiaao.cn/2018/06/09/Vim%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
     <id>https://blog.zangjiaao.cn/2018/06/09/Vim使用技巧/</id>
     <published>2018-06-09T12:36:36.000Z</published>
-    <updated>2018-06-13T18:54:54.450Z</updated>
+    <updated>2018-08-27T18:28:12.286Z</updated>
     
     <summary type="html">
     
@@ -231,7 +251,7 @@
     <link href="https://blog.zangjiaao.cn/2018/06/09/Hexoblog%E9%83%A8%E7%BD%B2%E8%AE%B0%E5%BD%95/"/>
     <id>https://blog.zangjiaao.cn/2018/06/09/Hexoblog部署记录/</id>
     <published>2018-06-09T12:33:50.000Z</published>
-    <updated>2018-08-21T18:49:56.778Z</updated>
+    <updated>2018-08-27T19:19:16.075Z</updated>
     
     <summary type="html">
     
