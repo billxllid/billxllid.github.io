@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.zangjiaao.cn/"/>
-  <updated>2018-09-02T15:11:23.067Z</updated>
+  <updated>2018-09-16T14:33:18.125Z</updated>
   <id>https://blog.zangjiaao.cn/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MongoDB笔记</title>
+    <link href="https://blog.zangjiaao.cn/2018/09/16/MongoDB%E7%AC%94%E8%AE%B0/"/>
+    <id>https://blog.zangjiaao.cn/2018/09/16/MongoDB笔记/</id>
+    <published>2018-09-16T12:38:56.000Z</published>
+    <updated>2018-09-16T14:33:18.125Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;概述：&lt;/strong&gt; 记录mongoDB的一些命令语法.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="04_学习笔记" scheme="https://blog.zangjiaao.cn/categories/note/"/>
+    
+    
+      <category term="python" scheme="https://blog.zangjiaao.cn/tags/python/"/>
+    
+      <category term="mongo" scheme="https://blog.zangjiaao.cn/tags/mongo/"/>
+    
+      <category term="database" scheme="https://blog.zangjiaao.cn/tags/database/"/>
+    
+  </entry>
   
   <entry>
     <title>Git学习笔记</title>
@@ -123,7 +147,7 @@
     <link href="https://blog.zangjiaao.cn/2018/06/13/Python%E6%A8%A1%E5%9D%97%E6%89%8B%E5%86%8C/"/>
     <id>https://blog.zangjiaao.cn/2018/06/13/Python模块手册/</id>
     <published>2018-06-13T12:38:11.000Z</published>
-    <updated>2018-09-09T14:14:34.931Z</updated>
+    <updated>2018-09-10T14:09:37.922Z</updated>
     
     <summary type="html">
     
