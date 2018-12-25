@@ -147,8 +147,8 @@ markdown_it_plus:
 #   limit: 10000
 
 algolia:
-  applicationID: '0C0PSWJ6U5'
-  apiKey: '657e9e9436cc07fca2578b797aa2b0c9'
+  applicationID: '89SG5EH8NK'
+  apiKey: 'cd3a79c4735d588c75f09851516ef565'
   indexName: 'hexo_blog'
   chunkSize: 5000
 
