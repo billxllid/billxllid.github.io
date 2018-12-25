@@ -32,9 +32,9 @@
       <category term="04_学习笔记" scheme="https://blog.zangjiaao.cn/categories/note/"/>
     
     
-      <category term="python" scheme="https://blog.zangjiaao.cn/tags/python/"/>
-    
       <category term="mongo" scheme="https://blog.zangjiaao.cn/tags/mongo/"/>
+    
+      <category term="python" scheme="https://blog.zangjiaao.cn/tags/python/"/>
     
       <category term="database" scheme="https://blog.zangjiaao.cn/tags/database/"/>
     
@@ -167,7 +167,7 @@
     <link href="https://blog.zangjiaao.cn/2018/06/12/Shell%E7%BC%96%E7%A8%8B%E9%80%9F%E6%9F%A5/"/>
     <id>https://blog.zangjiaao.cn/2018/06/12/Shell编程速查/</id>
     <published>2018-06-11T16:59:02.000Z</published>
-    <updated>2018-09-03T15:57:28.975Z</updated>
+    <updated>2018-10-21T12:40:56.390Z</updated>
     
     <summary type="html">
     
@@ -275,7 +275,7 @@
     <link href="https://blog.zangjiaao.cn/2018/06/09/Hexoblog%E9%83%A8%E7%BD%B2%E8%AE%B0%E5%BD%95/"/>
     <id>https://blog.zangjiaao.cn/2018/06/09/Hexoblog部署记录/</id>
     <published>2018-06-09T12:33:50.000Z</published>
-    <updated>2018-08-27T19:19:16.075Z</updated>
+    <updated>2018-12-25T17:13:52.913Z</updated>
     
     <summary type="html">
     
